@@ -173,25 +173,25 @@ export default function App() {
               {
                 title: "NeuroFlow Dashboard",
                 category: "AI Behavioral Analysis",
-                image: "https://images.unsplash.com/photo-1551288049-bbda48658a7d?auto=format&fit=crop&q=80&w=1000",
+                image: "https://raw.githubusercontent.com/Fvik8/Vitrac/main/src/Images/NeuroFlow%20Dashboard.png",
                 accent: "from-purple-500/20 to-vitarc-blue/20"
               },
               {
                 title: "BioPulse Wearable App",
                 category: "Real-time Patient Monitoring",
-                image: "https://images.unsplash.com/photo-1557821552-17105176677c?auto=format&fit=crop&q=80&w=1000",
+                image: "https://raw.githubusercontent.com/Fvik8/Vitrac/main/src/Images/BioPulse%20Wearable%20App.png",
                 accent: "from-vitarc-teal/20 to-vitarc-blue/20"
               },
               {
-                title: "Predictive Health Engine",
+                title: "Prediction Health Engine",
                 category: "Complex Data Visualization",
-                image: "https://images.unsplash.com/photo-1518152006812-edab29b069ac?auto=format&fit=crop&q=80&w=1000",
+                image: "https://raw.githubusercontent.com/Fvik8/Vitrac/main/src/Images/Prediction%20Health%20Engine.png",
                 accent: "from-vitarc-blue/20 to-emerald-500/20"
               },
               {
                 title: "TeleDoc Premium UI",
                 category: "Human-Centric Healthcare",
-                image: "https://images.unsplash.com/photo-1576091160550-217359f42f8c?auto=format&fit=crop&q=80&w=1000",
+                image: "https://raw.githubusercontent.com/Fvik8/Vitrac/main/src/Images/TeleDoc%20Premium%20UI.png",
                 accent: "from-orange-500/20 to-red-500/20"
               }
             ].map((project, i) => (
@@ -281,7 +281,7 @@ export default function App() {
               </div>
               <p className="text-sm uppercase tracking-widest text-vitarc-teal font-bold mb-6">Immediate Action</p>
               <a 
-                href="https://fviktorov.com" 
+                href="https://contra.com" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="inline-block w-full sm:w-auto px-12 py-5 bg-vitarc-teal text-vitarc-black font-black rounded-2xl uppercase tracking-tighter hover:scale-105 transition-all shadow-[0_0_20px_rgba(0,242,234,0.3)]"
