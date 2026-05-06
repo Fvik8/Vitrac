@@ -280,9 +280,14 @@ export default function App() {
                 <HeartPulse className="w-24 h-24" />
               </div>
               <p className="text-sm uppercase tracking-widest text-vitarc-teal font-bold mb-6">Immediate Action</p>
-              <button className="w-full sm:w-auto px-12 py-5 bg-vitarc-teal text-vitarc-black font-black rounded-2xl uppercase tracking-tighter hover:scale-105 transition-all shadow-[0_0_20px_rgba(0,242,234,0.3)]">
+              <a 
+                href="https://fviktorov.com" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                className="inline-block w-full sm:w-auto px-12 py-5 bg-vitarc-teal text-vitarc-black font-black rounded-2xl uppercase tracking-tighter hover:scale-105 transition-all shadow-[0_0_20px_rgba(0,242,234,0.3)]"
+              >
                 Connect on Contra
-              </button>
+              </a>
             </div>
           </motion.div>
         </div>
